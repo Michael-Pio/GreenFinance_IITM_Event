@@ -66,7 +66,7 @@ The platform provides:
 ---
 
 ## Architecture Diagram
-![architecture Diagram](image/architecture.png)
+![Architecture Diagram](image/Architecture.png)
 
 ---
 
